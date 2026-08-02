@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Stella AI — Powered by Grok",
-  description: "Stella is your intelligent AI companion, built with Grok by xAI.",
+  title: "Stella AI",
+  description: "Stella — powered by Grok",
 };
 
 export default function RootLayout({
